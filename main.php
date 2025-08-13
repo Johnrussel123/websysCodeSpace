@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+
 
 <?php 
 $name  = "John Russel Leyson";
@@ -15,6 +13,3 @@ echo "School: " . $school . "<br>";
 echo "Course: " . $course . "<br>";
 echo "Subject: " . $subject . "<br>";
 ?>
-
-</body>
-</html>
